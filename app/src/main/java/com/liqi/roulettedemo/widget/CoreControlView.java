@@ -138,7 +138,7 @@ public class CoreControlView extends View {
         drawBackDrawable(canvas);
         drawDialScale(canvas);
         drawIndicator(canvas);
-        drawContent(canvas);
+//        drawContent(canvas);
     }
 
 
